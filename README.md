@@ -74,3 +74,7 @@ A curated list of Hearthstone decks, including Standard/Wild/fun decks with code
 1.  在游戏中点击「我的收藏」
 2.  新建卡组，复制上面的卡组代码
 3.  游戏会自动识别并导入卡组，直接使用即可！
+---
+
+## 📝 更新记录
+- **2026-06-11**：创建仓库，添加标准/狂野/娱乐卡组模板
