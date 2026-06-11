@@ -21,10 +21,9 @@ A curated list of Hearthstone decks, including Standard/Wild/fun decks with code
 - **玩法说明**：节奏快攻，利用低费随从和直伤抢血取胜
 - **卡组代码**：`AAECAR8EmacHmqcHm6cHxbEHDamfBKqfBKj9Bq+SB4WVB86bB+6fB5CnB5inB8u2B7TAB7nAB7vABwA=`
 
-### 中速骑
-- **强度**：T2
-- **玩法说明**：中速铺场，利用buff和圣盾持续施压
-- **卡组代码**：`### 在这里粘贴你的卡组代码`
+### 任务法
+- **玩法说明**：任务
+- **卡组代码**：`AAECAf0EBrX6Bu/8BsODB7OHB6ebB/KyBwyb8gbxkQewmwf6mwfRpgfLtgf5wweGxAeSxAeT2geG4AecgggAAA==`
 
 ---
 
