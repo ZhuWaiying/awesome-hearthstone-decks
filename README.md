@@ -21,7 +21,7 @@ A curated list of Hearthstone decks, including Standard/Wild/fun decks with code
 ### 快攻猎
 - **强度**：T1.5
 - **玩法说明**：节奏快攻，利用低费随从和直伤抢血取胜
-- **卡组代码**：`### 在这里粘贴你的卡组代码`
+- **卡组代码**：`AAECAR8EmacHmqcHm6cHxbEHDamfBKqfBKj9Bq+SB4WVB86bB+6fB5CnB5inB8u2B7TAB7nAB7vABwA=`
 
 ### 中速骑
 - **强度**：T2
